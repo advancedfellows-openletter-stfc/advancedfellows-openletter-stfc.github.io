@@ -3411,7 +3411,7 @@ input, select, textarea {
 		}
 
 		#intro p {
-			background-color: #181b29;
+			background-color: #000060;
 			font-size: 1.25rem;
 
 			/*font-style: italic;*/
@@ -3746,7 +3746,7 @@ input, select, textarea {
 					}
 
 				#nav ul.links li.active {
-					background-color: #181b29;
+					background-color: #000060;
 				}
 
 					#nav ul.links li.active a {
@@ -3780,7 +3780,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #181b29;
+		background-color: #000060;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
