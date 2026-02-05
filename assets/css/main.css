@@ -3405,8 +3405,10 @@ input, select, textarea {
 				}
 
 		#intro h1 {
-			font-size: 5rem;
-			line-height: 1;
+		    font-size: 4.25rem;
+		    line-height: 1;
+		    background: #00006090;
+		    padding: 0.25em;
 		}
 
 		#intro p {
